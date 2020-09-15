@@ -29,7 +29,7 @@
 * **Creating new features** from existing features e.g. **job_in_headquaters from (job_location, headquarters),** etc.
 
 * Trimming columns i.e. **Trimming features having more than 10 categories to reduce the dimensionality**
-* **Handling ordi 
+* ** Handling ordinal and nominal categorical features 
 
 * Feature Scaling using **StandardScalar**
 
