@@ -17,9 +17,9 @@
 
 ### Exploratory Data Analysis & Data Cleaning
 
-* Removed unwanted columns: 'Unnamed: 0'
+* **Removed unwanted columns:** 'Unnamed: 0'
 * **Plotted bargraphs and countplots** for numerical and categorical features respectively
-* **Numerical Features** (Rating, Founded): **Replaced NaN or -1 values with mean or meadian based on their distribution**
+* **Numerical Features** (Rating, Founded): **Replaced NaN or -1 values with mean or meadian based on their distribution
 
 ![](Readme_resources/rating1.PNG)  ![](Readme_resources/rating2.PNG)
 
