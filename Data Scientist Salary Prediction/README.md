@@ -21,7 +21,7 @@
 * **Plotted bargraphs and countplots** for numerical and categorical features respectively
 * **Numerical Features** (Rating, Founded): **Replaced NaN or -1 values with mean or meadian based on their distribution**
 
-
+![](readme_resources/rating1.png)   ![](readme_resources/rating2.png)
 
 * **Categorical Features: Replaced NaN or -1 values with 'Other'/'Unknown' category**
 * **Removed unwanted alphabet/special characters from Salary feature**
@@ -29,6 +29,8 @@
 
 ### Feature Engineering
 * **Creating new features** from existing features e.g. **job_in_headquaters from (job_location, headquarters),** etc.
+
+![](readme_resources/headquarters.png)
 
 * Trimming columns i.e. **Trimming features having more than 10 categories to reduce the dimensionality**
 * **Handling ordinal and nominal categorical features** 
