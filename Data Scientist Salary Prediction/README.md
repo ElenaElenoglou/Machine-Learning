@@ -19,7 +19,7 @@
 
 * **Removed unwanted columns:** 'Unnamed: 0'
 * **Plotted bargraphs and countplots** for numerical and categorical features respectively
-* **Numerical Features** (Rating, Founded): **Replaced NaN or -1 values with mean or meadian based on their distribution
+* **Numerical Features** (Rating, Founded): **Replaced NaN or -1 values with mean or meadian based on their distribution**
 
 ![](readme_resources/rating1.PNG)  ![](readme_resources/rating2.PNG)
 
@@ -31,7 +31,7 @@
 * **Creating new features** from existing features e.g. **job_in_headquaters from (job_location, headquarters),** etc.
 
 * Trimming columns i.e. **Trimming features having more than 10 categories to reduce the dimensionality**
-* ** Handling ordinal and nominal categorical features 
+* **Handling ordinal and nominal categorical features 
 
 * Feature Scaling using **StandardScalar**
 
