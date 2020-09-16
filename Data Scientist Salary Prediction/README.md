@@ -33,7 +33,7 @@
 * Trimming columns i.e. **Trimming features having more than 10 categories to reduce the dimensionality**
 * **Handling ordinal and nominal categorical features** 
 
-![](readme_resources/correlation_matrix.PNG)
+![](readme_resources/correlation_matrix.png)
 
 * Feature Scaling using **StandardScalar**
 ### Model building & Evaluation
@@ -41,7 +41,7 @@
 Metric: Negative Root Mean Squared Error (NRMSE)
 * Multiple Linear Regression: -27.523
 * Lasso Regression: -29.094
-* Random Forest: -18.343
+* **Random Forest: -18.343**
 * Gradient Boosting: -25.059
 * Voting (Random Forest + Gradient Boosting): -19.723
 **Note: Evaluation scores are obtained using cross validation.**
