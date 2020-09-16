@@ -23,8 +23,8 @@
 
 ![](readme_resources/rating1.PNG)  ![](readme_resources/rating2.PNG)
 
-* **Categorical Features: Replaced NaN or -1 values with 'Other'/'Unknown' category
-* **Removed unwanted alphabet/special characters from Salary feature
+* **Categorical Features: Replaced NaN or -1 values with 'Other'/'Unknown' category**
+* **Removed unwanted alphabet/special characters from Salary feature**
 * **Converted the Salary column into one scale** i.e from (per hour, per annum, employer provided salary) to (per annum)
 
 ### Feature Engineering
