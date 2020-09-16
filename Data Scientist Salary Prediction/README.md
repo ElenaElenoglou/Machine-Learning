@@ -33,6 +33,7 @@
 * Trimming columns i.e. **Trimming features having more than 10 categories to reduce the dimensionality**
 * **Handling ordinal and nominal categorical features** 
 
+![](readme_resources/Gain_plot.png)
 ![](readme_resources/correlation_matrix.png)
 
 * Feature Scaling using **StandardScalar**
