@@ -21,9 +21,7 @@
 * **Plotted bargraphs and countplots** for numerical and categorical features respectively
 * **Numerical Features** (Rating, Founded): **Replaced NaN or -1 values with mean or meadian based on their distribution**
 
-![](readme_resources/rating1.PNG)  
 
-![](readme_resources/rating2.PNG)
 
 * **Categorical Features: Replaced NaN or -1 values with 'Other'/'Unknown' category**
 * **Removed unwanted alphabet/special characters from Salary feature**
@@ -48,3 +46,4 @@ Metric: Negative Root Mean Squared Error (NRMSE)
 **Note: Evaluation scores are obtained using cross validation.**
 
 ### Model Prediction
+![](readme_resources/Predictions.PNG) 
