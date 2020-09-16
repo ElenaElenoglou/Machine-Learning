@@ -21,6 +21,8 @@
 * **Plotted bargraphs and countplots** for numerical and categorical features respectively
 * **Numerical Features** (Rating, Founded): **Replaced NaN or -1 values with mean or meadian based on their distribution**
 
+![](Readme_resources/rating1.PNG)  ![](Readme_resources/rating2.PNG)
+
 * **Categorical Features: Replaced NaN or -1 values with 'Other'/'Unknown' category
 * **Removed unwanted alphabet/special characters from Salary feature
 * **Converted the Salary column into one scale** i.e from (per hour, per annum, employer provided salary) to (per annum)
@@ -37,10 +39,10 @@
 
 Metric: Negative Root Mean Squared Error (NRMSE)
 * Multiple Linear Regression: -27.523
-* Lasso Regression: -27.993
-* Random Forest: -17.637
-* Gradient Boosting: -24.429
-* Voting (Random Forest + Gradient Boosting): -19.136
+* Lasso Regression: -29.094
+* Random Forest: -18.343
+* Gradient Boosting: -25.059
+* Voting (Random Forest + Gradient Boosting): -19.723
 **Note: Evaluation scores are obtained using cross validation.**
 
 ### Model Prediction
