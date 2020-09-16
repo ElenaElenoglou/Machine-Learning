@@ -33,7 +33,7 @@
 * Trimming columns i.e. **Trimming features having more than 10 categories to reduce the dimensionality**
 * **Handling ordinal and nominal categorical features** 
 
-![](readme_resources/Predictions.PNG)
+![](readme_resources/correlation_matrix.PNG)
 
 * Feature Scaling using **StandardScalar**
 ### Model building & Evaluation
