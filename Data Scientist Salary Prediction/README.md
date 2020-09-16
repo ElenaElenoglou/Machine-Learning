@@ -36,7 +36,6 @@
 ![](readme_resources/correlation_matrix.PNG)
 
 * Feature Scaling using **StandardScalar**
-![](readme_resources/correlation matrix.PNG)
 ### Model building & Evaluation
 
 Metric: Negative Root Mean Squared Error (NRMSE)
