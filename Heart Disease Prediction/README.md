@@ -12,12 +12,12 @@ Classifying whether a person is suffering from Heart Disease or not.
 ### Exploratory Data Analysis 
 * Plotting heatmap to visualise the correlation between the features of the dataset
 <p align="center">
-<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Heart%20Disease%20Prediction/readme_resources/heatmap.png" width="800" height="500" />
+<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Heart%20Disease%20Prediction/readme_resources/heatmap.png" />
 </p>
 
 * Plotting histograms for the entire dataset
 <p align="center">
-<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Heart%20Disease%20Prediction/readme_resources/histogram.png" width="800" height="500" />  
+<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Heart%20Disease%20Prediction/readme_resources/histogram.png" />  
 </p>
 
 * Visualise the balance of the dataset
