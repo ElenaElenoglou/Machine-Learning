@@ -10,9 +10,9 @@ Classifying whether a person is suffering from Heart Disease or not.
 * Dataset by Ken Jee: https://www.kaggle.com/ronitf/heart-disease-uci
 
 ### Exploratory Data Analysis 
-* Plotted heatmap to visualise the correlationbetween the features of the dataset
+* Plotted heatmap to visualise the correlation between the features of the dataset
 * Plotting histograms for the entire dataset
-* Visualise the balance if the dataset
+* Visualise the balance of the dataset
 
 
 
