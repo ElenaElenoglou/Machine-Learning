@@ -15,7 +15,7 @@ Classifying whether a person is suffering from Heart Disease or not.
 * Visualise the balance of the dataset
 
 <img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Heart%20Disease%20Prediction/readme_resources/headmap.png" width="800" height="500" />
-
+<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Heart%20Disease%20Prediction/readme_resources/histogram.png" width="800" height="500" />
 
 ### Feature Engineering
 
