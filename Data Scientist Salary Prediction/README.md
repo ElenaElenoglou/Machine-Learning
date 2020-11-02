@@ -47,7 +47,7 @@ Metric: Negative Root Mean Squared Error (NRMSE)
 * **Random Forest: -18.343**
 * Gradient Boosting: -25.059
 * Voting (Random Forest + Gradient Boosting): -19.723
-**Note: Evaluation scores are obtained using cross validation.**
+**Note: Evaluations scores are obtained using cross validation.**
 
 ### Model Prediction
 ![](readme_resources/Predictions.PNG) 
