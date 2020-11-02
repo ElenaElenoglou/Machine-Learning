@@ -29,4 +29,4 @@ Classifying whether a person is suffering from Heart Disease or not.
 
 ![](readme_resources/K_Neighbors.png) 
 ![](readme_resources/Decision_Tree.png) 
-![](readme_resources/Random_Forest.png){ width=50% } 
+![](readme_resources/Random_Forest.png | width=100)
