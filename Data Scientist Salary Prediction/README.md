@@ -21,7 +21,11 @@
 * **Plotted bargraphs and countplots** for numerical and categorical features respectively
 * **Numerical Features** (Rating, Founded): **Replaced NaN or -1 values with mean or meadian based on their distribution**
 
-![](readme_resources/rating1.png)   ![](readme_resources/rating2.png)
+<p align="center">
+<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Data%20Scientist%20Salary%20Prediction/readme_resources/rating1.png" width="400" height="400" /> 
+<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Data%20Scientist%20Salary%20Prediction/readme_resources/rating2.png" width="400" height="400" />
+</p>
+
 
 * **Categorical Features: Replaced NaN or -1 values with 'Other'/'Unknown' category**
 * **Removed unwanted alphabet/special characters from Salary feature**
