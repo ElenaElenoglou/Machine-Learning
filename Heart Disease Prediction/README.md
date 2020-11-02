@@ -14,7 +14,7 @@ Classifying whether a person is suffering from Heart Disease or not.
 * Plotting histograms for the entire dataset
 * Visualise the balance of the dataset
 
-
+<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Heart%20Disease%20Prediction/readme_resources/headmap.png" width="800" height="500" />
 
 
 ### Feature Engineering
@@ -26,9 +26,6 @@ Classifying whether a person is suffering from Heart Disease or not.
 * **K Neighbors Classifier: 87%**
 * Decision Tree Classifier: 79%
 * Random Forest Classifier: 84%
-
-<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Heart%20Disease%20Prediction/readme_resources/K_Neighbors.png" width="250" height="200" /> 
-
- 
+![](readme_resources/K_Neighbors.png) 
 ![](readme_resources/Decision_Tree.png) 
 ![](readme_resources/Random_Forest.png)
