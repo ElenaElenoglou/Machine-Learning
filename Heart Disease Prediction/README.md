@@ -27,6 +27,8 @@ Classifying whether a person is suffering from Heart Disease or not.
 * Decision Tree Classifier: 79%
 * Random Forest Classifier: 84%
 
-![](readme_resources/K_Neighbors.png) 
+<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Heart%20Disease%20Prediction/readme_resources/K_Neighbors.png" width="250" height="200" /> 
+
+ 
 ![](readme_resources/Decision_Tree.png) 
 ![](readme_resources/Random_Forest.png)
