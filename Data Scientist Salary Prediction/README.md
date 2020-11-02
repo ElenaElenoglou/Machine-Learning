@@ -22,8 +22,8 @@
 * **Numerical Features** (Rating, Founded): **Replaced NaN or -1 values with mean or meadian based on their distribution**
 
 <p align="center">
-<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Data%20Scientist%20Salary%20Prediction/readme_resources/rating1.png" width="400" height="400" /> 
-<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Data%20Scientist%20Salary%20Prediction/readme_resources/rating2.png" width="400" height="400" />
+<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Data%20Scientist%20Salary%20Prediction/readme_resources/rating1.png" /> 
+<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Data%20Scientist%20Salary%20Prediction/readme_resources/rating2.png" />
 </p>
 
 
@@ -34,13 +34,18 @@
 ### Feature Engineering
 * **Creating new features** from existing features e.g. **job_in_headquaters from (job_location, headquarters),** etc.
 
-![](readme_resources/headquarters.png)
+<p align="center">
+<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Data%20Scientist%20Salary%20Prediction/readme_resources/headquarters.png" /> 
+</p>
+
 
 * Trimming columns i.e. **Trimming features having more than 10 categories to reduce the dimensionality**
 * **Handling ordinal and nominal categorical features** 
 
-![](readme_resources/Gain_plot.png)
-![](readme_resources/correlation_matrix.png)
+<p align="center">
+<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Data%20Scientist%20Salary%20Prediction/readme_resources/Gain_plot.png" /> 
+<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Data%20Scientist%20Salary%20Prediction/readme_resources/correlation_matrix.png" /> 
+</p>
 
 * Feature Scaling using **StandardScalar**
 ### Model building & Evaluation
