@@ -33,7 +33,10 @@ For this project, we'll work with a dataset that contains information about week
 
 - **Plotted plotted variety of plots ** for numerical and categorical features respectively.
 
-
+<p align="center">
+<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Walmart/Images/time_plots.png" /> 
+<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Walmart/Images/Correlation_matrix.png" />
+</p>
 
 <img src="C:\Users\elena\Documents\Fullstack\FullStack_Projects\Module_2_Supervised_ML\Walmart\Images\time_plots.png" alt="time_plots" style="zoom:67%;" />
 
