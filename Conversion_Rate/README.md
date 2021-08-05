@@ -22,6 +22,6 @@ The data scientists who created the newsletter would like to understand better t
 - Create relevant figures for EDA
 - Building model: Logistic Regression, SVM , Decision Tree and Random Forest 
 - Hyper parameter Optimization: Grid Search CV
-- Evaluate its performances (f1, confusion matrix)
+- Evaluate its performances (f1-score, confusion matrix)
 - Analyze the best model's parameters and make some recommendations to improve the conversion rate in the future
 
