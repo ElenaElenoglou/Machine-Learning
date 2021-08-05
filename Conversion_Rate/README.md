@@ -10,8 +10,7 @@ www.datascienceweekly.org is a famous newsletter curated by independent data sci
 
 
 
-## Resources Used 📖 <img src="https://www.iconpacks.net/icons/2/free-opened-book-icon-3169-thumb.png" alt="Free Opened Book Icon, Symbol. Download in PNG, SVG format." style="zoom:0.3%;" />
-
+## Resources Used 📖
 - Packages: **pandas, numpy, sklearn, plotly, seaborn.**
 - Dataset by Jedha.
 
