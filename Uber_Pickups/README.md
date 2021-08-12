@@ -43,7 +43,5 @@ For this project, we'll work with a dataset that contains information about week
 
 <p align="center">
 <img src="<p align="center">
-<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Walmart/Images/time_plots.png" /> 
+<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Uber_Pickups/Image/Spots_per_week_day.PNG" /> 
 </p" /> 
-<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Walmart/Images/Correlation_matrix.png" />
-</p
