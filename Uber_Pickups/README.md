@@ -40,3 +40,10 @@ For this project, we'll work with a dataset that contains information about week
 ## Deliverable 📬
 
 * A map with hot-zones per day of week using DBScan.
+
+<p align="center">
+<img src="<p align="center">
+<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Walmart/Images/time_plots.png" /> 
+</p" /> 
+<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Walmart/Images/Correlation_matrix.png" />
+</p
