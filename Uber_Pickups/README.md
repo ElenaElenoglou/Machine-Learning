@@ -6,7 +6,7 @@
 
 # UBER Pickups
 
-![](https://img.shields.io/badge/Dataset-Jedha-lightgrey) ![](https://img.shields.io/badge/Python-3.6-red) ![](https://img.shields.io/badge/libraries-pandas-green) ![](https://img.shields.io/badge/libraries-plotly-pink) ![](https://img.shields.io/badge/libraries-searborn-blue) ![](https://img.shields.io/badge/libraries-statsmodels-blueviolet)![](https://img.shields.io/badge/libraries-sklearn-vi)
+![](https://img.shields.io/badge/Dataset-Jedha-lightgrey) ![](https://img.shields.io/badge/Python-3.6-red) ![](https://img.shields.io/badge/libraries-pandas-green) ![](https://img.shields.io/badge/libraries-plotly-pink) ![](https://img.shields.io/badge/libraries-searborn-blue) ![](https://img.shields.io/badge/libraries-statsmodels-blueviolet)  ![](https://img.shields.io/badge/libraries-sklearn-vi)
 
 
 
@@ -41,7 +41,4 @@ For this project, we'll work with a dataset that contains information about week
 
 * A map with hot-zones per day of week using DBScan.
 
-<p align="center">
-<img src="<p align="center">
 <img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Uber_Pickups/Image/Spots_per_week_day.PNG" /> 
-</p" /> 
